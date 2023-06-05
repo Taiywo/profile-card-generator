@@ -37,7 +37,7 @@ const CardData = () => {
     })
 }
 CardData()
-// btn.addEventListener('click', CardData())
+btn.addEventListener('click', CardData)
 
 
 
